@@ -1,0 +1,19 @@
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe -wto 54651a2822ce485fbd9c0ee5483d63b3 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_Demuxes_behav xil_defaultlib.tb_Demuxes -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.numeric_std
+Compiling architecture demux_arc of entity xil_defaultlib.demux [demux_default]
+Compiling architecture behavioral of entity xil_defaultlib.Demuxes [demuxes_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_demuxes
+Built simulation snapshot tb_Demuxes_behav
