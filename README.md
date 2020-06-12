@@ -1,3 +1,3 @@
 # demuxes
-Simulation of demuxes
-Play with the Quadrant sselection logic
+Simulation of demuxes:
+Play with the Quadrant selection logic
